@@ -1,0 +1,95 @@
+{
+    "leads": [{
+      "address": "123 Fake Street",
+      "businessCategory": "Restaurant",
+      "businessSegment": "Bar",
+      "churnLikelihood": 33,
+      "compositeScore": "medium",
+      "contacts": [],
+      "contractSize": null,
+      "convertLikelihood": 55,
+      "distance": 1.3,
+      "id": "1",
+      "name": "The Gem Saloon",
+      "notes": [],
+      "predictedVolume": 75,
+      "prioritized": false,
+      "type": "Prospect",
+      "visits": {
+          "lastVisitDate": "",
+          "suggestedVisitDate": "5/6/21",
+          "totalVisits": 0,
+          "visitStatus": "Requires Visit"
+      },
+      "unitsInArea": 1
+    }, {
+        "address": "456 False Avenue",
+        "businessCategory": "Hotel",
+        "businessSegment": "Luxury",
+        "churnLikelihood": 24,
+        "compositeScore": null,
+        "contacts": [],
+        "contractSize": "medium",
+        "convertLikelihood": 78,
+        "distance": 2.8,
+        "id": "2",
+        "name": "Grand Central Hotel",
+        "notes": [],
+        "predictedVolume": 25,
+        "prioritized": false,
+        "type": "Customer",
+        "visits": {
+            "lastVisitDate": "3/28/21",
+            "suggestedVisitDate": "",
+            "totalVisits": 1,
+            "visitStatus": "Visited"
+        },
+        "unitsInArea": 1
+    }, {
+        "address": "789 Pseudo Boulevard",
+        "businessCategory": "Restaurant",
+        "businessSegment": "Fine Dining",
+        "churnLikelihood": 88,
+        "compositeScore": null,
+        "contacts": [],
+        "contractSize": "large",
+        "convertLikelihood": 23,
+        "distance": 0.8,
+        "id": "3",
+        "name": "The Bella Union",
+        "notes": [],
+        "predictedVolume": 39,
+        "prioritized": false,
+        "type": "Customer",
+        "visits": {
+            "lastVisitDate": "2/5/21",
+            "suggestedVisitDate": "",
+            "totalVisits": 1,
+            "visitStatus": "Visited"
+        },
+        "unitsInArea": 2
+    }, {
+        "address": "101 Faux Road",
+        "businessCategory": "Retail Store",
+        "businessSegment": "Hardware",
+        "churnLikelihood": 88,
+        "compositeScore": "low",
+        "contacts": [],
+        "contractSize": null,
+        "convertLikelihood": 14,
+        "distance": 2.4,
+        "id": "4",
+        "name": "Star & Bullock Hardware",
+        "notes": [],
+        "predictedVolume": 50,
+        "prioritized": false,
+        "type": "Prospect",
+        "visits": {
+            "lastVisitDate": "",
+            "suggestedVisitDate": "5/1/21",
+            "totalVisits": 0,
+            "visitStatus": "Reqires Visit"
+        },
+        "unitsInArea": 1
+    }]
+}
